@@ -11,8 +11,11 @@ export default function Home() {
 
       <main className={styles.main}>
         <h1 className={styles.title}>
-          VL starter nextjs App
+          VL starter Nextjs App
         </h1>
+        <div>
+          HRM
+        </div>
       </main>
 
       <footer className={styles.footer}>
